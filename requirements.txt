@@ -1,0 +1,9 @@
+huggingface-hub==0.33.2
+pandas==2.3.0
+python-dotenv==1.1.1
+python-telegram-bot==22.2
+tokenizers==0.21.2
+tqdm==4.67.1
+transformers==4.53.1
+asyncio==3.4.3
+dotenv==0.9.9
